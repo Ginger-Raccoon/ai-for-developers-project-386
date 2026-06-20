@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Backend
+backend/booking.db
+
+# Frontend
+frontend/dist/
+frontend/node_modules/
+
+# TypeSpec
+typespec/node_modules/
+typespec/tsp-output/
