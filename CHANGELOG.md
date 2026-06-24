@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Ginger-Raccoon/ai-for-developers-project-386/compare/v1.0.0...v1.1.0) (2026-06-20)
+
+
+### Features
+
+* **docker:** add Dockerfile and PORT env support for production deployment ([4e87f10](https://github.com/Ginger-Raccoon/ai-for-developers-project-386/commit/4e87f10094b05a3286d5ba1ce642669aba87536b))
+
 ## 1.0.0 (2026-06-20)
 
 
